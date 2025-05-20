@@ -4,9 +4,10 @@
 
 //b would be used to represent the height for ease 
 
-let a = parseFloat(prompt("kindly input the weight of the individual; "));
-
-let b = parseFloat(prompt("kindly input the height of the individual; "));
+//let a = parseFloat(prompt("kindly input the weight of the individual; "));
+let a = 40;
+let b = 40;
+//let b = parseFloat(prompt("kindly input the height of the individual; "));
 
 bmi=(a/(b**2));
 
